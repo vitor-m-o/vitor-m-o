@@ -42,7 +42,7 @@ Olá! Meu nome é **Vítor Maziero Oliveira**, tenho 16 anos e sou estudante no 
 -->
 ## 🌟 Projetos Destacados
 
-- 🦴 **[Patinhas em Ação]([https://github.com/vitor-m-o/projeto-x](https://github.com/vitor-m-o/patinhasemacao.github.io)):** Projeto para site que auxilia no cuidado de pets.
+- 🦴 **[Patinhas em Ação](https://github.com/vitor-m-o/patinhasemacao.github.io):** Projeto para site que auxilia no cuidado de pets.
 <!--- - 🤖 **[Robótica](https://github.com/vitor-m-o/robotica):** Outro projeto marcante relacionado ao Graxaim Bots.-->
 ---
 
