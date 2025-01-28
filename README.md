@@ -49,7 +49,7 @@ Olá! Meu nome é **Vítor Maziero Oliveira**, tenho 16 anos e sou estudante no 
 ## 📫 Entre em Contato
 
 - **GitHub:** [github.com/vitor-m-o](https://github.com/vitor-m-o)
-**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/))
+**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/)
 
 ---
 
