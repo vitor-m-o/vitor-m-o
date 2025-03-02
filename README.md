@@ -1,17 +1,15 @@
 #  Vítor Maziero Oliveira
-
-### Bem-vindo ao meu perfil do GitHub! 👋
-
 ---
 
-Olá! Meu nome é **Vítor Maziero Oliveira**, tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, onde curso o Ensino Médio integrado ao Técnico em Informática. Sou apaixonado por tecnologia, programação e design, participando ativamente de projetos científicos e do grupo de robótica **Graxaim Bots**.
+Tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, onde curso o Ensino Médio integrado ao Técnico em Informática. Sou apaixonado por tecnologia, programação e design, participando ativamente de projetos científicos e do grupo de robótica **Graxaim Bots**.
 
 ---
 
 ## 🛠️ Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=haxe,java,c,cpp&theme=dark)](https://skillicons.dev)
-<i class="devicon-arduino-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+          
          
 ---
 
