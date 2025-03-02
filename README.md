@@ -1,7 +1,7 @@
 #  Vítor Maziero Oliveira
 ---
 
-Tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, onde curso o Ensino Médio integrado ao Técnico em Informática. Sou apaixonado por tecnologia, programação e design, participando ativamente de projetos científicos e do grupo de robótica **Graxaim Bots**.
+📕 Tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, onde curso o Ensino Médio integrado ao Técnico em Informática. Entusiasta por programação, tecnologia e design, participando ativamente de projetos.
 
 ---
 
@@ -13,25 +13,25 @@ Tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) -
 
 ## Idiomas
 
-- **Inglês:** Avançado, com capacidade para comunicação eficaz.
-- **Espanhol:** Em aprendizado.
+- 🇺🇸 **Inglês:** Avançado, com capacidade para comunicação eficaz.
+- 🇪🇸 **Espanhol:** Em aprendizado.
 
 ---
 
 ## Projetos Destacados
 
-- **[Patinhas em Ação](https://github.com/vitor-m-o/patinhasemacao.github.io):** Projeto para site que auxilia no cuidado de pets.
+- 🦴 **[Patinhas em Ação](https://github.com/vitor-m-o/patinhasemacao.github.io):** Projeto para site que auxilia no cuidado de pets.
 <!--- - 🤖 **[Robótica](https://github.com/vitor-m-o/robotica):** Outro projeto marcante relacionado ao Graxaim Bots.-->
 ---
 
 ## Entre em Contato
 
-- **GitHub:** [github.com/vitor-m-o](https://github.com/vitor-m-o)
-**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/)
+- 📫**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/)
+ **Discord:** vitor_mo
 
 ---
 
-## Meus Status
+## Status
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAJigsaw77&layout=compact&theme=dark)
 
