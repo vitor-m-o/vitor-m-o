@@ -1,26 +1,3 @@
-# Welcome to my profile! 👋
-
-I'm a high school student passionate about creating libraries for Haxe.
-
-Explore my projects and feel free to reach out!
-
-## About Me
-
-- 🎓 Currently in `11th` grade in High School.
-- 🌱 Currently learning `C/C++/Objc/Objc++`.
-
-## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=haxe,java,c,cpp&theme=dark)](https://skillicons.dev)
-<i class="devicon-arduino-plain"></i>
-         
-            
-          
-
-## Get in Touch
-
-- 📫 How to reach me: `majigsaw` on Discord.
-
 #  Vítor Maziero Oliveira
 
 ### Bem-vindo ao meu perfil do GitHub! 👋
@@ -29,6 +6,13 @@ Explore my projects and feel free to reach out!
 
 Olá! Meu nome é **Vítor Maziero Oliveira**, tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, onde curso o Ensino Médio integrado ao Técnico em Informática. Sou apaixonado por tecnologia, programação e design, participando ativamente de projetos científicos e do grupo de robótica **Graxaim Bots**.
 
+---
+
+## 🛠️ Habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=haxe,java,c,cpp&theme=dark)](https://skillicons.dev)
+<i class="devicon-arduino-plain"></i>
+         
 ---
 
 ## 🌍 Idiomas
