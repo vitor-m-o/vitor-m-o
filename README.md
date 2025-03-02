@@ -33,6 +33,6 @@
 
 ## Status
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAJigsaw77&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-m-o&layout=compact&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MAJigsaw77&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vitor-m-o&theme=dark)
