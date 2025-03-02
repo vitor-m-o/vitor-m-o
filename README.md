@@ -8,7 +8,7 @@ Tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) -
 ## 🛠️ Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=haxe,java,c,cpp&theme=dark)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/>
           
          
 ---
