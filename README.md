@@ -27,7 +27,7 @@
 ## Entre em Contato
 
 - 📫**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/)
-- **Discord:** vitor_mo
+- 📫**Discord:** vitor_mo
 
 ---
 
