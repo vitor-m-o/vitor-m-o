@@ -1,7 +1,7 @@
 #  Vítor Maziero Oliveira
 ---
 
-- 📕 Tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, onde curso o Ensino Médio integrado ao Técnico em Informática. Entusiasta por programação, tecnologia e design, participando ativamente de projetos.
+- 📕 Tenho 16 anos e sou estudante no **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, onde curso o Ensino Médio integrado ao Técnico em Automação Industrial. Entusiasta por programação, tecnologia e design, participando ativamente de projetos.
 
 ---
 
