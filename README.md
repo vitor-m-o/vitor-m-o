@@ -22,7 +22,6 @@
 
 - 🦴 **[Patinhas em Ação](https://github.com/vitor-m-o/patinhasemacao.github.io):** Projeto para site que auxilia no cuidado de pets.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20"/> **[Arduino Car](https://github.com/vitor-m-o/arduino_car_v1):** Projeto de carro de Arduino para facilitar o aprendizado de programação para iniciantes.
-- 🎣 **[Hook on a Fish](https://github.com/vitor-m-o/Hook-on-a-Fish):** Projeto de game.
 - 🤖 **[Robótica](https://www.instagram.com/graxaim_bots/):** Participação do grupo de robótica Graxaim Bots.
   
 ---
