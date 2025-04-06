@@ -13,7 +13,7 @@
 
 ## Idiomas
 
-- 🇺🇸 **Inglês:** Avançado, com capacidade para comunicação eficaz.
+- 🇺🇸 **Inglês:** Fluente, capacidade profissional eficaz.
 - 🇪🇸 **Espanhol:** Em aprendizado.
 
 ---
