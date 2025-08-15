@@ -32,6 +32,7 @@
 ## Contact Me
 
 - 📫**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/)
+- 📫**Youtube:** https://www.youtube.com/@vitor_mo
 - 📫**Discord:** vitor_mo
 
 ---
