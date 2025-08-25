@@ -23,16 +23,18 @@
 
 ## Highlighted Projects
 
-- 🦴 **[Patinhas em Ação](https://github.com/vitor-m-o/patinhasemacao.github.io):** Website created to assist with the care of animals, for FECIC (Science Fair from IFSUL) project.
+- 💡 **[Website Food Dispenser] (https://github.com/vitor-m-o/dispensador-racao-1) :** Project created to try to make an automatic Animal Food Dispenser while also being able to control it by website.
+- 🦴 **[Paws in Action](https://github.com/vitor-m-o/patinhasemacao.github.io):** Website created to assist with the care of animals, for FECIC (Science Fair from IFSUL) project.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20"/> **[Arduino Car](https://github.com/vitor-m-o/arduino_car_v1):** Arduino car project to assist programming learning for beginners in electronics and programming.
-- 🤖 **[Robótica](https://www.instagram.com/graxaim_bots/):** Active participating on the Robotics Team Graxaim Bots.
+- 🤖 **[Robotics](https://www.instagram.com/graxaim_bots/):** Active participating on the Robotics Team Graxaim Bots.
   
 ---
 
 ## Socials
 
 - 📫**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/)
-- 📫**Youtube:** https://www.youtube.com/@vitor_mo
+- 📫**ENG Youtube:** https://www.youtube.com/@vitor_mo
+- 📫**PTBR Youtube:** https://www.youtube.com/@vitor_moB
 - 📫**Discord:** vitor_mo
 - 📫**Instagram:** https://www.instagram.com/vitor_m_o/
 
