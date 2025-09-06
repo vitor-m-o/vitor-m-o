@@ -17,7 +17,7 @@
 
 - 🇧🇷 **Brazilian Portuguese:** Native language.
 - 🇺🇸 **English:** Fluent, professional capacity.
-- 🇪🇸 **Espanish:** Learning.
+- 🇪🇸 **Spanish:** Learning.
 
 ---
 
