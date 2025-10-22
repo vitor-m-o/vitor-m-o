@@ -37,7 +37,6 @@
 - 📫**ENG Youtube:** https://www.youtube.com/@vitor_mo
 - 📫**PTBR Youtube:** https://www.youtube.com/@vitor_moB
 - 📫**Discord:** vitor_mo
-- 📫**Instagram:** https://www.instagram.com/vitor_m_o/
 
 ---
 
