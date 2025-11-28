@@ -1,7 +1,7 @@
 #  Vítor Maziero Oliveira
 ---
 
-- 📕 I'm a 16 years student at **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, enrolled in the High School program integrated with Industrial Automation. I'm passionate about programming, electronics, and technology, and I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions.
+- 📕 I'm a 17 years student at **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, enrolled in the High School program integrated with Industrial Automation. I'm passionate about programming, electronics, and technology, and I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions.
 
 ---
 
