@@ -33,9 +33,7 @@
 
 ## Socials
 
-- 📫**LinkedIn:** [linkedin.com/in/vitor-maziero](https://www.linkedin.com/in/v%C3%ADtor-maziero-oliveira-58767032a/)
-- 📫**ENG Youtube:** https://www.youtube.com/@vitor_mo
-- 📫**PTBR Youtube:** https://www.youtube.com/@vitor_moB
+- 📫**Youtube:** https://www.youtube.com/@vitor_mo
 - 📫**Discord:** vitor_mo
 
 ---
