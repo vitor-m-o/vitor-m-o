@@ -33,8 +33,9 @@
 
 ## Socials
 
-- 📫**Youtube:** https://www.youtube.com/@vitor_mo
+- 📫**Youtube:** youtube.com/@vitor_mo
 - 📫**Discord:** vitor_mo
+- 📫**Twitter:** x.com/vitor_mo_
 
 ---
 
