@@ -35,7 +35,7 @@
 
 - 📫**Youtube:** https://www.youtube.com/@vitor_mo
 - 📫**Discord:** vitor_mo
-- 📫**Twitter:** https://x.com/vitor_mo_ .
+- 📫**Twitter:** https://x.com/vitor_mo_
 
 ---
 
