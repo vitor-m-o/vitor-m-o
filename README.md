@@ -1,7 +1,7 @@
 #  Vítor Maziero Oliveira
 ---
 
-- 📕 I'm a 17 years student at **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, enrolled in the High School program integrated with Industrial Automation. I'm passionate about programming, electronics, and technology, and I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions.
+- 📕 I'm a 17 years student at **Instituto Federal Sul-rio-grandense (IFSul) - Campus Camaquã**, enrolled in the High School program integrated with Industrial Automation. I'm passionate about programming, electronics, and technology, and I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions. Also active in Social Media with my youtube channel and game development.
 
 ---
 
@@ -9,7 +9,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/> 
 
-- 🪛 My main skills are backend development, particularly with Python, and programming microcontrollers like the ESP32 and Arduino using Arduino code, which is based on C++.
+- 🪛 My main skills are backend development, particularly with Python, and programming microcontrollers like the ESP32 and Arduino using Arduino code, which is based on C++. And game development with GML.
 
 ---
 
