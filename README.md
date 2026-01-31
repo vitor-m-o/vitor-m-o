@@ -1,4 +1,4 @@
-#  Vítor Maziero Oliveira
+#  vitor_mo
 ---
 
 - 📕 I'm a student passionate about programming, electronics, and technology, and I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions. Also active in Social Media with my youtube channel and game development.
