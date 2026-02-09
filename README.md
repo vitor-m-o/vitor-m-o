@@ -26,10 +26,10 @@ Microcontroler Development
 
 ## Highlighted Projects
 
-- 💡 **[Website Food Dispenser](https://github.com/vitor-m-o/dispensador-racao-1):** Project for an automatic Animal Food Dispenser while also being able to control it by website.
-- 🧡 **[FanGame](https://github.com/vitor-m-o/DustSwap-IHWL-FanGame):** Undertale FanGame coded on Game Maker from Scratch, a fun project for the Undertale Community.
-- 🦴 **[Paws in Action](https://github.com/vitor-m-o/patinhasemacao.github.io):** Website created to assist with the care of animals, for FECIC (Science Fair from IFSUL) project.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20"/> **[Arduino Car](https://github.com/vitor-m-o/arduino_car_v1):** Arduino car project to assist programming learning for beginners in electronics and programming.
+- 💡 **[Website Food Dispenser](https://github.com/vitor-m-o/dispensador-racao-1):** Personal project for inovation, developed the idea and code.
+- 🧡 **[FanGame](https://github.com/vitor-m-o/DustSwap-IHWL-FanGame):** Personal game project, developed the code.
+- 🦴 **[Paws in Action](https://github.com/vitor-m-o/patinhasemacao.github.io):** First website developed for a science fair.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20"/> **[Arduino Car](https://github.com/vitor-m-o/arduino_car_v1):** Robotics club project, developed the code.
 - 🤖 **[Robotics](https://www.instagram.com/graxaim_bots/):** Active participating on the Robotics Team Graxaim Bots.
   
 ---
