@@ -1,7 +1,7 @@
 #  vitor_mo
 ---
 
-- 📕 I'm a student passionate about programming, electronics, and technology, and I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions. Also active in Social Media with my youtube channel and game development.
+- I'm a student passionate about programming, electronics, technology and game development, I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions, while sharing my work in Social Medias.
 
 ---
 
@@ -9,7 +9,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"> <img src="https://cdn.simpleicons.org/gamemaker/white" height="50" alt="gamemaker logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/> 
 
-- 🪛 My main skills are:
+- My main skills are:
 Backend development |
 Game Developer |
 Microcontroler Development
