@@ -30,7 +30,7 @@ Microcontroler Development
 - 🧡 **[FanGame](https://github.com/vitor-m-o/DustSwap-IHWL-FanGame):** Personal game project, developed the code.
 - 🦴 **[Paws in Action](https://github.com/vitor-m-o/patinhasemacao.github.io):** First website developed for a science fair.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20"/> **[Arduino Car](https://github.com/vitor-m-o/arduino_car_v1):** Robotics club project, developed the code.
-- 🤖 **[Robotics](https://www.instagram.com/graxaim_bots/):** Active participating on the Robotics Team Graxaim Bots.
+- 🤖 **[Robotics](https://www.instagram.com/graxaim_bots/):** Graxaim Bots Team Capitain.
   
 ---
 
