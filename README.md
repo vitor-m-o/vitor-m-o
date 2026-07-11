@@ -1,7 +1,7 @@
 #  vitor_mo
 ---
 
-- I'm a student passionate about programming, electronics, technology and game development, I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions, while sharing my work in Social Medias.
+- Passionate about programming, electronics, technology and game development, I actively participate in related projects and initiatives to expand my skills and contribute to innovative solutions, while sharing my work in Social Medias.
 
 ---
 
