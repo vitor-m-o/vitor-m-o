@@ -26,11 +26,12 @@ Microcontroler Development
 
 ## Highlighted Projects
 
-- 💡 **[Website Food Dispenser](https://github.com/vitor-m-o/dispensador-racao-1):** Personal project for inovation, developed the idea and code.
-- 🧡 **[FanGame](https://github.com/vitor-m-o/DustSwap-IHWL-FanGame):** Personal game project, developed the code.
+- ⚙️ **[FanGame](https://github.com/vitor-m-o/TYPEWHEEL):** Personal game project, developed the code and directed.
+- 🧡 **[FanGame](https://github.com/vitor-m-o/DustSwap-IHWL-FanGame):** Personal fangame project, developed the code.
 - 🦴 **[Paws in Action](https://github.com/vitor-m-o/patinhasemacao.github.io):** First website developed for a science fair.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20"/> **[Arduino Car](https://github.com/vitor-m-o/arduino_car_v1):** Robotics club project, developed the code.
-- 🤖 **[Robotics](https://www.instagram.com/graxaim_bots/):** Graxaim Bots Team Capitain.
+- 💡 **[Website Food Dispenser](https://github.com/vitor-m-o/dispensador-racao-1):** Personal project for inovation, developed the idea and code.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="20" height="20"/> **[Arduino Car](https://github.com/vitor-m-o/arduino_car_v1):** Robotics project, developed the code.
+- 🤖 **[Robotics](https://www.instagram.com/graxaim_bots/):** Graxaim Bots Rescue Maze Team Capitain.
   
 ---
 
